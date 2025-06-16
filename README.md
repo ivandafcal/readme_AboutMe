@@ -1,5 +1,6 @@
-<h1 align="center">Hola 👋, soy Ivan Dafauce</h1>
-<h3 align="center">Desarrollador web recién titulado en DAW</h3>
+<h1 align="center">Hola 👋, soy Iván Dafauce.</h1>
+<h3 align="center">Desarrollador de Software con más de 2 años de experiencia como FullStack Developer en la actualidad con base de aprendizaje como Backend Developer. Empecé realizando 
+ mis prácticas utilizando Java con framework Springboot desarrollando microservicios y actualmente trabajo como FullStack Developer en la creación de Gemelos Digitales en una empresa innovadora dentro del sector, siendo capaz de haber aprendido un lenguaje propio (JCore) parecido a JavaScript y desplegando diferentes proyectos para entidades privadas y públicas implementando Inteligencia Artificial a la par que modelos de gestión y flujos realizados con una pila parecida a la arquitectura MERN.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
